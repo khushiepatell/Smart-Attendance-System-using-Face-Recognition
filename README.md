@@ -51,8 +51,7 @@ smart-attendance/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/smart-attendance.git
-cd smart-attendance
+https://github.com/khushiepatell/Smart-Attendance-System-using-Face-Recognition.git
 
 # 2. (Recommended) Create a virtual environment
 python -m venv venv
